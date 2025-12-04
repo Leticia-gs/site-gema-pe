@@ -6,4 +6,4 @@
 
 ## Periodo e Curso: Ads, 1 periodo
 
-## Site: https://leticia-gs.github.io/site-gema-pe/
+- Site: https://leticia-gs.github.io/site-gema-pe/
